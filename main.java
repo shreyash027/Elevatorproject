@@ -1,4 +1,4 @@
-package com.javab5.java.oops.elevator_project;
+package Elevatorproject;
 
 import java.util.Scanner;
 
